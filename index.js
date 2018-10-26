@@ -1,5 +1,7 @@
 // add solution here
 function theBeatlesPlay ( musicians, instruments) {
-  var array = []
-    for (var array = 0)
+  var musicians = []
+    for (var musicians = 0; musicians <=4; musicians++ ){
+      console.log('')
+    }
 }
